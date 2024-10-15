@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Juliet Rigoti 
 
-<!--
-**julietRigoti/julietRigoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <a href="https://www.linkedin.com/in/juliet-rigoti-746b47200/?locale=en_US">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rigotijuliet@gmail.com?subject=Hi%20Juliet">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### I'm a student, aspiring backend developer, and interested in data science :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ GitHub Stats 
+  
+<div align="left" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=julietRigoti&show_icons=true&theme=vision-friendly-dark" alt="Juliet's GitHub Stats" width="46%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julietRigoti&hide=html&layout=compact&theme=vision-friendly-dark" width="35%" alt="Juliet's Top Languages">
+</div>
+
+![Snake animation](https://github.com/julietRigoti/julietRigoti/blob/output/github-contribution-grid-snake.svg)
