@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### I'm a student, aspiring backend developer, and interested in data science :)
+### I'm a student, aspiring backend developer :)
 
 ## ⚡ GitHub Stats 
   
